@@ -8,6 +8,7 @@ const bodyParser = require('body-parser')
 const comb = require('./routes/comb')
 const index = require('./routes/index')
 const industry = require('./routes/industry')
+const analysis = require('./routes/analysis')
 
 const app = express()
 
@@ -38,6 +39,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.use('/', index)
 app.use('/comb', comb)
 app.use('/industry', industry)
+app.use('/analysis', analysis)
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {

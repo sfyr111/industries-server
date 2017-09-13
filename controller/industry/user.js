@@ -2,6 +2,24 @@ const axios = require('axios')
 const qs = require('qs')
 const { url, ERR_OK } = require('../../config/config')
 
+// let cookie = ''
+
+// axios.interceptors.request.use(function (config) {
+//   config.headers.cookie = cookie
+//   console.log(config.headers)
+//   return config
+// }, function (error) {
+//   return Promise.reject(error)
+// })
+
+// axios.interceptors.response.use(function (response) {
+//   console.log(response.headers['set-cookie'][0])
+//   cookie = response.headers['set-cookie'][0].split(';')[0]
+//   return response
+// }, function (error) {
+//   return Promise.reject(error)
+// })
+
 const getUserSettings = async function (req, res, next) {
   const { data } = await axios.post(`${url}/industries/industry/usersettings/get.do`, qs.stringify(req.query))
 
