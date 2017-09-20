@@ -34,7 +34,6 @@ const saveCollectArticles = async function (req, res, next) {
   if (data.resp.code !== ERR_OK) {
     throw new Error('response error')
   } else {
-    console.log(data)
     res.json({
       code: 0,
       obj: data.resp.obj
@@ -48,7 +47,6 @@ const deleteCollectArticles = async function (req, res, next) {
   if (data.resp.code !== ERR_OK) {
     throw new Error('response error')
   } else {
-    console.log(data)
     res.json({
       code: 0,
       obj: data.resp.obj
@@ -62,7 +60,6 @@ const getCollectArticles = async function (req, res, next) {
   if (data.resp.code !== ERR_OK) {
     throw new Error('response error')
   } else {
-    console.log(data)
     res.json({
       code: 0,
       list: data.resp.list
@@ -76,7 +73,6 @@ const judgeCollectArticles = async function (req, res, next) {
   if (data.resp.code !== ERR_OK) {
     throw new Error('response error')
   } else {
-    console.log(data)
     res.json({
       code: 0,
       obj: data.resp.obj
