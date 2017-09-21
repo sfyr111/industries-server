@@ -15,8 +15,21 @@ const getProductClassify = async function (req, res, next) {
   }
 }
 
-const getTenderClassify = async function (req, res, next) {
+const getTenderProductsClassify = async function (req, res, next) {
   const { data } = await axios.post(`${url}/industries/industry/zhaobiao/get.do`, qs.stringify(req.query))
+
+  if (data.resp.code !== ERR_OK) {
+    throw new Error('response error')
+  } else {
+    res.json({
+      code: 0,
+      list: data.resp.list
+    })
+  }
+}
+
+const getTenderCompanyClassify = async function (req, res, next) {
+  const { data } = await axios.post(`${url}/industries/industry/zhaobiao/get2.do`, qs.stringify(req.query))
 
   if (data.resp.code !== ERR_OK) {
     throw new Error('response error')
@@ -56,7 +69,8 @@ const getCompanyClassify = async function (req, res, next) {
 
 module.exports = {
   getProductClassify,
-  getTenderClassify,
+  getTenderProductsClassify,
   getIndustryClassify,
-  getCompanyClassify
+  getCompanyClassify,
+  getTenderCompanyClassify
 }

@@ -3,7 +3,7 @@ const router = express.Router()
 
 const { getUserSettings, saveUserSettings, getIndustryList, getCompanyList } = require('../controller/industry/user')
 const { getIndustryTrend, getCompanyTrend, getProductTrend, getTenderTrend } = require('../controller/industry/list')
-const { getProductClassify, getTenderClassify, getIndustryClassify, getCompanyClassify } = require('../controller/industry/classify')
+const { getProductClassify, getTenderProductsClassify, getTenderCompanyClassify, getIndustryClassify, getCompanyClassify } = require('../controller/industry/classify')
 const { getCompanyRanking, getCompanyRankingChart, getProductsRanking, getProductsRankingChart } = require('../controller/industry/rank')
 const { getHotNews, getCompanyClassifyAndList, getProductsClassifyAndList, getTenderClassifyAndList } = require('../controller/industry/field')
 
@@ -43,7 +43,8 @@ router.get('/products/list2.do', getProductTrend)
 /**
  * discovery page classify
  */
-router.get('/zhaobiao/get.do', getTenderClassify)
+router.get('/zhaobiao/products/get.do', getTenderProductsClassify)
+router.get('/zhaobiao/company/get.do', getTenderCompanyClassify)
 router.get('/products/get.do', getProductClassify)
 router.get('/industrystag.do', getIndustryClassify)
 router.get('/companys/gettag.do', getCompanyClassify)
