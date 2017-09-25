@@ -4,7 +4,7 @@ const { url, ERR_OK } = require('../../config/config')
 
 const getHotNews = async function (req, res, next) {
   const { data } = await axios.post(`${url}/industries/industry/hotnews.do`, qs.stringify(req.query))
-
+  console.log(JSON.stringify(req.query))
   if (data.resp.code !== ERR_OK) {
     throw new Error('response error')
   } else {
