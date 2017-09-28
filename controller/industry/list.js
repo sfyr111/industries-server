@@ -1,4 +1,5 @@
-const axios = require('axios')
+// const axios = require('axios')
+const axios = require('../../service/axios')
 const qs = require('qs')
 const { url, ERR_OK } = require('../../config/config')
 

@@ -10,6 +10,10 @@ const index = require('./routes/index')
 const industry = require('./routes/industry')
 const analysis = require('./routes/analysis')
 
+// const session = require('express-session')
+// const redis = require('redis')
+// const RedisStore = require('connect-redis')(session)
+
 const app = express()
 
 app.all('*', (req, res, next) => {
@@ -23,6 +27,29 @@ app.all('*', (req, res, next) => {
     next()
   }
 })
+
+// app.use(session({
+//   store: new RedisStore({host: '127.0.0.1', port: 6379}),
+//   secret: 'keyboard cat',
+//   cookie: {
+//     maxAge: 30 * 1000
+//   }
+// }))
+// app.get('/vi', function (req, res, next) {
+//   console.log(req.session)
+//   if (!req.session.isVisit) {
+//     req.session.isVisit++
+//     res.json({
+//       visit: req.session.isVisit
+//     })
+//     // return next(new Error('oh no')) // handle error
+//   }
+//   req.session.isVisit = 1
+//   res.json({
+//     visit: req.session.isVisit
+//   })
+//   // otherwise continue
+// })
 
 // view engine setup
 app.set('views', path.join(__dirname, 'public'))

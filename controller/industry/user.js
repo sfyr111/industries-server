@@ -1,20 +1,23 @@
-const axios = require('axios')
+// const axios = require('axios')
+const axios = require('../../service/axios')
 const qs = require('qs')
 const { url, ERR_OK } = require('../../config/config')
 
 // let cookie = ''
 
 // axios.interceptors.request.use(function (config) {
-//   config.headers.cookie = cookie
-//   console.log(config.headers)
+//   // config.headers.cookie = cookie
+//   // console.log(config.headers)
 //   return config
 // }, function (error) {
 //   return Promise.reject(error)
 // })
-
+//
 // axios.interceptors.response.use(function (response) {
+//   console.log('-----------')
 //   console.log(response.headers['set-cookie'][0])
-//   cookie = response.headers['set-cookie'][0].split(';')[0]
+//   // console.log(response.data.resp.obj.userToken)
+//   console.log('-----------')
 //   return response
 // }, function (error) {
 //   return Promise.reject(error)
