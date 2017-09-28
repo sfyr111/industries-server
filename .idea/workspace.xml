@@ -5,66 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9208e57-5499-41d8-9bbb-df3ec578cc1a" name="Default" comment="完善版本">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/0.bcac70ee036e5b66d805.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/0.bcac70ee036e5b66d805.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/1.d3162b6ce42e6dd73bcb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/1.d3162b6ce42e6dd73bcb.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/10.d1b8cdacfc3d628600f7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/10.d1b8cdacfc3d628600f7.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/11.4ab159418af77840d70b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/11.4ab159418af77840d70b.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/12.020450f99f1f4fceb899.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/12.020450f99f1f4fceb899.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/13.d03d81dbf7abddbaa7fc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/13.d03d81dbf7abddbaa7fc.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/14.b01ea28629d407e98de0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/14.b01ea28629d407e98de0.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/15.f8b97ee4516128284037.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/15.f8b97ee4516128284037.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/16.5310dc953333ff00589c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/16.5310dc953333ff00589c.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/17.45472240b177c567fe25.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/17.45472240b177c567fe25.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/2.84cb99e20fb00638d633.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/2.84cb99e20fb00638d633.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/20.8d72f331f87896ea8fee.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/20.8d72f331f87896ea8fee.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/21.f8bd398cc98b1b7d1092.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/21.f8bd398cc98b1b7d1092.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/3.5ce5838860ef11cb2a29.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/3.5ce5838860ef11cb2a29.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/4.2b76315cea7f3039f073.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/4.2b76315cea7f3039f073.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/5.898b467bf6960f979238.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/5.898b467bf6960f979238.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/6.1baf261ad91110d0a506.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/6.1baf261ad91110d0a506.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/7.572789480992cba0d43d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/7.572789480992cba0d43d.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/8.61a93a0f071868900234.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/8.61a93a0f071868900234.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/9.02f67dbcfa9226199b33.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/9.02f67dbcfa9226199b33.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/app.111a3491c9a2fc6fb079.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/app.111a3491c9a2fc6fb079.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/manifest.9f8765f7e6a94924fb85.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/manifest.9f8765f7e6a94924fb85.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/vendor.c755621a58489f350be6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/industries/js/vendor.c755621a58489f350be6.js.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/industry/analysis.js" afterPath="$PROJECT_DIR$/controller/industry/analysis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/industry/classify.js" afterPath="$PROJECT_DIR$/controller/industry/classify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/industry/comb.js" afterPath="$PROJECT_DIR$/controller/industry/comb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/industry/field.js" afterPath="$PROJECT_DIR$/controller/industry/field.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/industry/list.js" afterPath="$PROJECT_DIR$/controller/industry/list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/industry/rank.js" afterPath="$PROJECT_DIR$/controller/industry/rank.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/industry/user.js" afterPath="$PROJECT_DIR$/controller/industry/user.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/axios.js" afterPath="$PROJECT_DIR$/service/axios.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -192,27 +133,13 @@
             <path>
               <item name="indeustries-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="indeustries-server" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="indeustries-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="indeustries-server" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="indeustries-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="indeustries-server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="indeustries-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="indeustries-server" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="indeustries-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="indeustries-server" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="industry" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,7 +217,7 @@
       <workItem from="1506494549154" duration="9398000" />
       <workItem from="1506569421189" duration="594000" />
       <workItem from="1506580997579" duration="11480000" />
-      <workItem from="1506603456126" duration="490000" />
+      <workItem from="1506603456126" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="分析设置，添加，删除">
       <created>1505291954849</created>
@@ -376,23 +303,30 @@
       <option name="project" value="LOCAL" />
       <updated>1506498193576</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="完善版本">
+      <created>1506604064088</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1506604064088</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136770000" />
+    <option name="totallyTimeSpent" value="137488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11995178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17299578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -419,10 +353,10 @@
     <MESSAGE value="增加一项分析入口" />
     <MESSAGE value="fix bug" />
     <MESSAGE value="修改设置功能" />
-    <MESSAGE value="完善版本" />
     <MESSAGE value="发布新版" />
     <MESSAGE value="提交public" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交public" />
+    <MESSAGE value="完善版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善版本" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -664,6 +598,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="7" column="137" lean-forward="false" selection-start-line="7" selection-start-column="137" selection-end-line="7" selection-end-column="137" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -671,6 +606,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -685,6 +621,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -706,6 +643,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -713,13 +651,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="74" lean-forward="false" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/industry/classify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -727,6 +659,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -734,6 +667,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -741,6 +675,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="37" column="45" lean-forward="true" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -755,6 +690,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="2" column="1640" lean-forward="false" selection-start-line="2" selection-start-column="1639" selection-end-line="2" selection-end-column="1640" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -769,6 +705,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -776,6 +713,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -783,6 +721,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/industry/classify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
