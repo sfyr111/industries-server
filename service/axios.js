@@ -5,15 +5,11 @@ let tokenMap = new Map()
 axios.defaults.withCredentials = true
 
 axios.interceptors.request.use(function (config) {
-  // let token = getName('userToken', config.data)
-  // if (tokenMap.has(token)) {
-  //   let cookie = tokenMap.get(token)
-  //   console.log(cookie.substr(0, 43))
-  //   config.headers.common['Cookie'] = cookie.substr(0, 43)
-  // }
-  // var cookie = 'JSESSIONID=E3EC0A683483CE946E849C378C42F1A2'
-  // console.log(cookie)
-  // config.headers.common['Cookie'] = cookie
+  let token = getName('userToken', config.data)
+  if (tokenMap.has(token)) {
+    let cookie = tokenMap.get(token)
+    config.headers.common['Cookie'] = cookie.substr(0, 43).toLowerCase()
+  }
   config.headers.common['Connection'] = 'keep-alive'
   return config
 }, function (error) {
