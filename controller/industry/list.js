@@ -3,6 +3,7 @@ const axios = require('../../service/axios')
 const qs = require('qs')
 const { url, ERR_OK } = require('../../config/config')
 
+// git test
 const getIndustryTrend = async function (req, res, next) {
   const { data } = await axios.post(`${url}/industries/industry/industrynews.do`, qs.stringify(req.query))
 
